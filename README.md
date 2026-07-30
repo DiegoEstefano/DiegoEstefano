@@ -1,6 +1,5 @@
 ## About: 👨‍💻
-I'm 30 years old, a student of Analysis and development FMU, and Web Developer UFRN/IMD (Federal University of Rio Grande do Norte), I've always found it incredible how technology allows us to express our ideas in the form of code and see something previously thought, working and helping other people. I started my studies in the development area and practiced projects even before I started the courses. 
-I'm currently improving my skills in Javascript and React Js. I intend to be a complete Web Developer.
+I'm an IT professional with over 7 years of experience in networking, infrastructure, and systems administration. My background is focused on network administration, cybersecurity, and IT support, but I'm currently transitioning my career into Web Development. I have completed a Web Development course at UFRN/IMD (Federal University of Rio Grande do Norte) and enjoy building modern, user-friendly web applications while continuously improving my skills. I believe my experience in infrastructure and security gives me a strong foundation for developing reliable and secure web solutions. I'm always learning and excited to take on new challenges.
 
 
 ## Technologies : 🧑🏻‍💻
